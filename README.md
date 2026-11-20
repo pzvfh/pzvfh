@@ -11,7 +11,9 @@ Currently, I'm improving my programming skills and building personal projects.
 - Programming: Python, Java, C++ (beginner)
 - Web development: HTML, CSS, Django, REST APIs 
 - Tools: Figma, Jira, ClickUp, Trello
+
 I also have experience working with Jira in a corporate environment.
+
 I'm open to junior positions and internships in data analytics, database development, and software engineering.
 
 ### Stories Cafe
