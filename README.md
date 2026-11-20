@@ -11,5 +11,28 @@ My tech stack:
 - Web development: HTML, CSS, Django, REST APIs 
 - Tools: Figma, Jira, ClickUp, Trello
 I also have experience working with Jira in a corporate environment.
+I'm open to junior positions and internships in data analytics, database development, and software engineering.
 
-I'm open to junior positions and internships in software engineering and database development.
+### Stories Cafe
+[View Project](https://test-coffe-105o6pja6-kira13.vercel.app)
+
+A cafe website developed as a team project.
+
+**Highlights:**
+- Responsive website interface
+- Interactive menu and gallery
+- Table booking functionality
+- Backend integration using Flask
+- Telegram integration for booking notifications
+- User authentication integration
+- Multilingual interface
+
+**Technologies:** Python, Flask, HTML, CSS, JavaScript,
+Supabase, Cloudinary
+
+
+## Get in touch
+- Telegram: [Contact Me](http://t.me/mkstv_meyzth)
+- Email: nika.nechai.tech@gmail.com
+- LinkedIn: www.linkedin.com/in/nika-nechai
+
